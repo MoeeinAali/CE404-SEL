@@ -1,0 +1,18 @@
+[submodule "Experiment01-Git"]
+	path = Experiment01-Git
+	url = https://github.com/CE404-SEL/Experiment01-Git
+[submodule "Experiment02-OOP"]
+	path = Experiment02-OOP
+	url = https://github.com/CE404-SEL/Experiment02-OOP
+[submodule "Experiment03-TDD"]
+	path = Experiment03-TDD
+	url = https://github.com/CE404-SEL/Experiment03-TDD
+[submodule "Experiment04-BDD"]
+	path = Experiment04-BDD
+	url = https://github.com/CE404-SEL/Experiment04-BDD
+[submodule "Experiment05-Docker"]
+	path = Experiment05-Docker
+	url = https://github.com/CE404-SEL/Experiment05-Docker
+[submodule "Experiment06-Patterns"]
+	path = Experiment06-Patterns
+	url = https://github.com/CE404-SEL/Experiment06-Patterns
